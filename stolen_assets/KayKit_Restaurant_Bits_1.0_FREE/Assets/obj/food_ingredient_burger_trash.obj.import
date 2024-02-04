@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cxhy11itptnix"
+path="res://.godot/imported/food_ingredient_burger_trash.obj-b5b72129459f40ae357c1e6659cf6bd8.mesh"
+
+[deps]
+
+files=["res://.godot/imported/food_ingredient_burger_trash.obj-b5b72129459f40ae357c1e6659cf6bd8.mesh"]
+
+source_file="res://stolen_assets/KayKit_Restaurant_Bits_1.0_FREE/Assets/obj/food_ingredient_burger_trash.obj"
+dest_files=["res://.godot/imported/food_ingredient_burger_trash.obj-b5b72129459f40ae357c1e6659cf6bd8.mesh", "res://.godot/imported/food_ingredient_burger_trash.obj-b5b72129459f40ae357c1e6659cf6bd8.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bbr6ypen57le4"
+path="res://.godot/imported/modularBuildings_013.obj-3f9b2d9b620e4be9c1cec59e2a54e58e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/modularBuildings_013.obj-3f9b2d9b620e4be9c1cec59e2a54e58e.mesh"]
+
+source_file="res://stolen_assets/kenney_modular-buildings/Models/modularBuildings_013.obj"
+dest_files=["res://.godot/imported/modularBuildings_013.obj-3f9b2d9b620e4be9c1cec59e2a54e58e.mesh", "res://.godot/imported/modularBuildings_013.obj-3f9b2d9b620e4be9c1cec59e2a54e58e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

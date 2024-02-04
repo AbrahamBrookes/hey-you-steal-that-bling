@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d2qawrs2l30ig"
+path="res://.godot/imported/roadSplitLarge.obj-307e45495758efb112218b0d6e58e1a5.mesh"
+
+[deps]
+
+files=["res://.godot/imported/roadSplitLarge.obj-307e45495758efb112218b0d6e58e1a5.mesh"]
+
+source_file="res://stolen_assets/kenney_racing-kit/Models/OBJ format/roadSplitLarge.obj"
+dest_files=["res://.godot/imported/roadSplitLarge.obj-307e45495758efb112218b0d6e58e1a5.mesh", "res://.godot/imported/roadSplitLarge.obj-307e45495758efb112218b0d6e58e1a5.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

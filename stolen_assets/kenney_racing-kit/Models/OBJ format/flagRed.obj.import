@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ytkmtpp3stqe"
+path="res://.godot/imported/flagRed.obj-8fa246db058393c320450cfc3bc79200.mesh"
+
+[deps]
+
+files=["res://.godot/imported/flagRed.obj-8fa246db058393c320450cfc3bc79200.mesh"]
+
+source_file="res://stolen_assets/kenney_racing-kit/Models/OBJ format/flagRed.obj"
+dest_files=["res://.godot/imported/flagRed.obj-8fa246db058393c320450cfc3bc79200.mesh", "res://.godot/imported/flagRed.obj-8fa246db058393c320450cfc3bc79200.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

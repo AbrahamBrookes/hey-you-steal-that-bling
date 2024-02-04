@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://tblqmymk6rup"
+path="res://.godot/imported/grenadeSmoke.obj-4267548c8a35fc00f02e36d4d5170675.mesh"
+
+[deps]
+
+files=["res://.godot/imported/grenadeSmoke.obj-4267548c8a35fc00f02e36d4d5170675.mesh"]
+
+source_file="res://stolen_assets/kenney_weapon-pack/Models/grenadeSmoke.obj"
+dest_files=["res://.godot/imported/grenadeSmoke.obj-4267548c8a35fc00f02e36d4d5170675.mesh", "res://.godot/imported/grenadeSmoke.obj-4267548c8a35fc00f02e36d4d5170675.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

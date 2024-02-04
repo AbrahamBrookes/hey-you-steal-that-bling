@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ccywi1ugypxhs"
+path="res://.godot/imported/crops_dirtDoubleRowCorner.obj-349db7852196e5e7e29697ded45d3b76.mesh"
+
+[deps]
+
+files=["res://.godot/imported/crops_dirtDoubleRowCorner.obj-349db7852196e5e7e29697ded45d3b76.mesh"]
+
+source_file="res://stolen_assets/kenney_nature-kit/Models/OBJ format/crops_dirtDoubleRowCorner.obj"
+dest_files=["res://.godot/imported/crops_dirtDoubleRowCorner.obj-349db7852196e5e7e29697ded45d3b76.mesh", "res://.godot/imported/crops_dirtDoubleRowCorner.obj-349db7852196e5e7e29697ded45d3b76.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

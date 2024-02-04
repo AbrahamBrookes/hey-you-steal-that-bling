@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ckk62rc4bq0vm"
+path="res://.godot/imported/flagGreen.obj-b59681cad4282fbfdc95a94112b5c0d1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/flagGreen.obj-b59681cad4282fbfdc95a94112b5c0d1.mesh"]
+
+source_file="res://stolen_assets/kenney_racing-kit/Models/OBJ format/flagGreen.obj"
+dest_files=["res://.godot/imported/flagGreen.obj-b59681cad4282fbfdc95a94112b5c0d1.mesh", "res://.godot/imported/flagGreen.obj-b59681cad4282fbfdc95a94112b5c0d1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

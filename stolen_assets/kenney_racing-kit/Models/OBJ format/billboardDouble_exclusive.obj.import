@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://chnv7bol2cq1b"
+path="res://.godot/imported/billboardDouble_exclusive.obj-cd942ee9a8b2e8b8eddb57de6148473b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/billboardDouble_exclusive.obj-cd942ee9a8b2e8b8eddb57de6148473b.mesh"]
+
+source_file="res://stolen_assets/kenney_racing-kit/Models/OBJ format/billboardDouble_exclusive.obj"
+dest_files=["res://.godot/imported/billboardDouble_exclusive.obj-cd942ee9a8b2e8b8eddb57de6148473b.mesh", "res://.godot/imported/billboardDouble_exclusive.obj-cd942ee9a8b2e8b8eddb57de6148473b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

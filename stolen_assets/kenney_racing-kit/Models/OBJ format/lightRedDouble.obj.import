@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cof1udqfacv18"
+path="res://.godot/imported/lightRedDouble.obj-37c3327e29845072a4688a565deff38e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/lightRedDouble.obj-37c3327e29845072a4688a565deff38e.mesh"]
+
+source_file="res://stolen_assets/kenney_racing-kit/Models/OBJ format/lightRedDouble.obj"
+dest_files=["res://.godot/imported/lightRedDouble.obj-37c3327e29845072a4688a565deff38e.mesh", "res://.godot/imported/lightRedDouble.obj-37c3327e29845072a4688a565deff38e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

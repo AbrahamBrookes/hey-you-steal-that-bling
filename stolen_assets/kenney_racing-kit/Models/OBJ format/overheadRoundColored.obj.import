@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dlteukfrtdif5"
+path="res://.godot/imported/overheadRoundColored.obj-ebed8807ce97f237fc4c8a14bb8e8b1a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/overheadRoundColored.obj-ebed8807ce97f237fc4c8a14bb8e8b1a.mesh"]
+
+source_file="res://stolen_assets/kenney_racing-kit/Models/OBJ format/overheadRoundColored.obj"
+dest_files=["res://.godot/imported/overheadRoundColored.obj-ebed8807ce97f237fc4c8a14bb8e8b1a.mesh", "res://.godot/imported/overheadRoundColored.obj-ebed8807ce97f237fc4c8a14bb8e8b1a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

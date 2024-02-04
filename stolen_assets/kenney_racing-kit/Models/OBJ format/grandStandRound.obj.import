@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c5q205gkpeq8v"
+path="res://.godot/imported/grandStandRound.obj-54ba1ee406158333e4750878ccf7ffe7.mesh"
+
+[deps]
+
+files=["res://.godot/imported/grandStandRound.obj-54ba1ee406158333e4750878ccf7ffe7.mesh"]
+
+source_file="res://stolen_assets/kenney_racing-kit/Models/OBJ format/grandStandRound.obj"
+dest_files=["res://.godot/imported/grandStandRound.obj-54ba1ee406158333e4750878ccf7ffe7.mesh", "res://.godot/imported/grandStandRound.obj-54ba1ee406158333e4750878ccf7ffe7.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b80po1wdpvmm5"
+path="res://.godot/imported/sniper.obj-52366e03ed53d88307ee605dc4a9610f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/sniper.obj-52366e03ed53d88307ee605dc4a9610f.mesh"]
+
+source_file="res://stolen_assets/kenney_weapon-pack/Models/sniper.obj"
+dest_files=["res://.godot/imported/sniper.obj-52366e03ed53d88307ee605dc4a9610f.mesh", "res://.godot/imported/sniper.obj-52366e03ed53d88307ee605dc4a9610f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

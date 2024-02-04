@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dvge26vhcjaf4"
+path="res://.godot/imported/ground_pathEnd.obj-1c47ebee50e89651e3bab9786b724f1b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/ground_pathEnd.obj-1c47ebee50e89651e3bab9786b724f1b.mesh"]
+
+source_file="res://stolen_assets/kenney_nature-kit/Models/OBJ format/ground_pathEnd.obj"
+dest_files=["res://.godot/imported/ground_pathEnd.obj-1c47ebee50e89651e3bab9786b724f1b.mesh", "res://.godot/imported/ground_pathEnd.obj-1c47ebee50e89651e3bab9786b724f1b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

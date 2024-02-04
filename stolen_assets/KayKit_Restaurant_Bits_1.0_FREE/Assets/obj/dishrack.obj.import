@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://4j17pb8epc0l"
+path="res://.godot/imported/dishrack.obj-d8db4611e4acda767d8544d70ca79309.mesh"
+
+[deps]
+
+files=["res://.godot/imported/dishrack.obj-d8db4611e4acda767d8544d70ca79309.mesh"]
+
+source_file="res://stolen_assets/KayKit_Restaurant_Bits_1.0_FREE/Assets/obj/dishrack.obj"
+dest_files=["res://.godot/imported/dishrack.obj-d8db4611e4acda767d8544d70ca79309.mesh", "res://.godot/imported/dishrack.obj-d8db4611e4acda767d8544d70ca79309.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

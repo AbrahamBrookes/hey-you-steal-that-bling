@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cygjprswop8b4"
+path="res://.godot/imported/jar_D_medium.obj-b5bc4195b22de773a9e58cc70e35e34d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/jar_D_medium.obj-b5bc4195b22de773a9e58cc70e35e34d.mesh"]
+
+source_file="res://stolen_assets/KayKit_Restaurant_Bits_1.0_FREE/Assets/obj/jar_D_medium.obj"
+dest_files=["res://.godot/imported/jar_D_medium.obj-b5bc4195b22de773a9e58cc70e35e34d.mesh", "res://.godot/imported/jar_D_medium.obj-b5bc4195b22de773a9e58cc70e35e34d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

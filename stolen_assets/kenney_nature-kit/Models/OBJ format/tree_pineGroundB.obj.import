@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cr1dx8frwtt2m"
+path="res://.godot/imported/tree_pineGroundB.obj-da102ed824d21638fb562adbc873b5cb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tree_pineGroundB.obj-da102ed824d21638fb562adbc873b5cb.mesh"]
+
+source_file="res://stolen_assets/kenney_nature-kit/Models/OBJ format/tree_pineGroundB.obj"
+dest_files=["res://.godot/imported/tree_pineGroundB.obj-da102ed824d21638fb562adbc873b5cb.mesh", "res://.godot/imported/tree_pineGroundB.obj-da102ed824d21638fb562adbc873b5cb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ccpn4s6cby84j"
+path="res://.godot/imported/roadCornerBridgeLarge.obj-02fefaf93a68a6e2f378f72315b4e205.mesh"
+
+[deps]
+
+files=["res://.godot/imported/roadCornerBridgeLarge.obj-02fefaf93a68a6e2f378f72315b4e205.mesh"]
+
+source_file="res://stolen_assets/kenney_racing-kit/Models/OBJ format/roadCornerBridgeLarge.obj"
+dest_files=["res://.godot/imported/roadCornerBridgeLarge.obj-02fefaf93a68a6e2f378f72315b4e205.mesh", "res://.godot/imported/roadCornerBridgeLarge.obj-02fefaf93a68a6e2f378f72315b4e205.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dwcnk25gocdgg"
+path="res://.godot/imported/bowl_small.obj-839d093d5e6b719d6ba43ecdf5e4dec1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/bowl_small.obj-839d093d5e6b719d6ba43ecdf5e4dec1.mesh"]
+
+source_file="res://stolen_assets/KayKit_Restaurant_Bits_1.0_FREE/Assets/obj/bowl_small.obj"
+dest_files=["res://.godot/imported/bowl_small.obj-839d093d5e6b719d6ba43ecdf5e4dec1.mesh", "res://.godot/imported/bowl_small.obj-839d093d5e6b719d6ba43ecdf5e4dec1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

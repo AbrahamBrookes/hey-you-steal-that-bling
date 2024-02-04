@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://71d4riyq6ack"
+path="res://.godot/imported/cliff_waterfall_stone.obj-ddecbc8ab6f4cf32dbea3c7d2c332bde.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cliff_waterfall_stone.obj-ddecbc8ab6f4cf32dbea3c7d2c332bde.mesh"]
+
+source_file="res://stolen_assets/kenney_nature-kit/Models/OBJ format/cliff_waterfall_stone.obj"
+dest_files=["res://.godot/imported/cliff_waterfall_stone.obj-ddecbc8ab6f4cf32dbea3c7d2c332bde.mesh", "res://.godot/imported/cliff_waterfall_stone.obj-ddecbc8ab6f4cf32dbea3c7d2c332bde.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

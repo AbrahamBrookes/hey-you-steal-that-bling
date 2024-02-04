@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://chulh3831qtua"
+path="res://.godot/imported/ground_pathStraight.obj-a196f6637de5f9950e9a0a6fdf446f07.mesh"
+
+[deps]
+
+files=["res://.godot/imported/ground_pathStraight.obj-a196f6637de5f9950e9a0a6fdf446f07.mesh"]
+
+source_file="res://stolen_assets/kenney_nature-kit/Models/OBJ format/ground_pathStraight.obj"
+dest_files=["res://.godot/imported/ground_pathStraight.obj-a196f6637de5f9950e9a0a6fdf446f07.mesh", "res://.godot/imported/ground_pathStraight.obj-a196f6637de5f9950e9a0a6fdf446f07.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

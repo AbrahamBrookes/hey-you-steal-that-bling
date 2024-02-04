@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://drnwgvnsirg1q"
+path="res://.godot/imported/tentClosed.obj-cf444c81e76f3ff360b480d5a7873aba.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tentClosed.obj-cf444c81e76f3ff360b480d5a7873aba.mesh"]
+
+source_file="res://stolen_assets/kenney_racing-kit/Models/OBJ format/tentClosed.obj"
+dest_files=["res://.godot/imported/tentClosed.obj-cf444c81e76f3ff360b480d5a7873aba.mesh", "res://.godot/imported/tentClosed.obj-cf444c81e76f3ff360b480d5a7873aba.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

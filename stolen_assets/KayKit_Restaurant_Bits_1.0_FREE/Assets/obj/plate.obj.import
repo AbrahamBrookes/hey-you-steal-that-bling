@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b8jfpckwt0y00"
+path="res://.godot/imported/plate.obj-d57d3a27073be787417202a6c44f409f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/plate.obj-d57d3a27073be787417202a6c44f409f.mesh"]
+
+source_file="res://stolen_assets/KayKit_Restaurant_Bits_1.0_FREE/Assets/obj/plate.obj"
+dest_files=["res://.godot/imported/plate.obj-d57d3a27073be787417202a6c44f409f.mesh", "res://.godot/imported/plate.obj-d57d3a27073be787417202a6c44f409f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

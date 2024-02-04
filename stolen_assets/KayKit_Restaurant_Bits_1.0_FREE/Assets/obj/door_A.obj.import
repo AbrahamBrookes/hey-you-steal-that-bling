@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dgajauk2bciqu"
+path="res://.godot/imported/door_A.obj-b4a4976956fbfe9efe51b8cbe9aa3967.mesh"
+
+[deps]
+
+files=["res://.godot/imported/door_A.obj-b4a4976956fbfe9efe51b8cbe9aa3967.mesh"]
+
+source_file="res://stolen_assets/KayKit_Restaurant_Bits_1.0_FREE/Assets/obj/door_A.obj"
+dest_files=["res://.godot/imported/door_A.obj-b4a4976956fbfe9efe51b8cbe9aa3967.mesh", "res://.godot/imported/door_A.obj-b4a4976956fbfe9efe51b8cbe9aa3967.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

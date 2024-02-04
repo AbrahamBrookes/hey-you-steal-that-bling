@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://j7m31pjsorkk"
+path="res://.godot/imported/bannerTowerGreen.obj-2b1df039ce23e658d9c6bc21e212ab0e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/bannerTowerGreen.obj-2b1df039ce23e658d9c6bc21e212ab0e.mesh"]
+
+source_file="res://stolen_assets/kenney_racing-kit/Models/OBJ format/bannerTowerGreen.obj"
+dest_files=["res://.godot/imported/bannerTowerGreen.obj-2b1df039ce23e658d9c6bc21e212ab0e.mesh", "res://.godot/imported/bannerTowerGreen.obj-2b1df039ce23e658d9c6bc21e212ab0e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

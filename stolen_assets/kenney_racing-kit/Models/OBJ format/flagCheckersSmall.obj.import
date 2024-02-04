@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ktbhntrs0ynn"
+path="res://.godot/imported/flagCheckersSmall.obj-b0e657e8793bec4201a8e1e17e3acb9a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/flagCheckersSmall.obj-b0e657e8793bec4201a8e1e17e3acb9a.mesh"]
+
+source_file="res://stolen_assets/kenney_racing-kit/Models/OBJ format/flagCheckersSmall.obj"
+dest_files=["res://.godot/imported/flagCheckersSmall.obj-b0e657e8793bec4201a8e1e17e3acb9a.mesh", "res://.godot/imported/flagCheckersSmall.obj-b0e657e8793bec4201a8e1e17e3acb9a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

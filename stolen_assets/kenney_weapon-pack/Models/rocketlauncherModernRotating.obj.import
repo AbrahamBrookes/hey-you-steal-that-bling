@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://caajtc1dk212v"
+path="res://.godot/imported/rocketlauncherModernRotating.obj-8765f94f61f3746f47d0db140e601a1d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/rocketlauncherModernRotating.obj-8765f94f61f3746f47d0db140e601a1d.mesh"]
+
+source_file="res://stolen_assets/kenney_weapon-pack/Models/rocketlauncherModernRotating.obj"
+dest_files=["res://.godot/imported/rocketlauncherModernRotating.obj-8765f94f61f3746f47d0db140e601a1d.mesh", "res://.godot/imported/rocketlauncherModernRotating.obj-8765f94f61f3746f47d0db140e601a1d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

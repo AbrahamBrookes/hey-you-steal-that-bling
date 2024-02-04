@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bteoyvkxrk01i"
+path="res://.godot/imported/crate_lettuce.obj-daadd475a82fe50c31980f0486b68468.mesh"
+
+[deps]
+
+files=["res://.godot/imported/crate_lettuce.obj-daadd475a82fe50c31980f0486b68468.mesh"]
+
+source_file="res://stolen_assets/KayKit_Restaurant_Bits_1.0_FREE/Assets/obj/crate_lettuce.obj"
+dest_files=["res://.godot/imported/crate_lettuce.obj-daadd475a82fe50c31980f0486b68468.mesh", "res://.godot/imported/crate_lettuce.obj-daadd475a82fe50c31980f0486b68468.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

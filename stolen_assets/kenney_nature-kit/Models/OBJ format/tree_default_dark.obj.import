@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://db0nppl7ubf4f"
+path="res://.godot/imported/tree_default_dark.obj-a467449c40833490bd6541b51fb0d3e1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tree_default_dark.obj-a467449c40833490bd6541b51fb0d3e1.mesh"]
+
+source_file="res://stolen_assets/kenney_nature-kit/Models/OBJ format/tree_default_dark.obj"
+dest_files=["res://.godot/imported/tree_default_dark.obj-a467449c40833490bd6541b51fb0d3e1.mesh", "res://.godot/imported/tree_default_dark.obj-a467449c40833490bd6541b51fb0d3e1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

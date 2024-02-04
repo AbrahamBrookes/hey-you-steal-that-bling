@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dx751hi4lurag"
+path="res://.godot/imported/barrierRed.obj-51e23c69724a0ac123df3a175e5de3d7.mesh"
+
+[deps]
+
+files=["res://.godot/imported/barrierRed.obj-51e23c69724a0ac123df3a175e5de3d7.mesh"]
+
+source_file="res://stolen_assets/kenney_racing-kit/Models/OBJ format/barrierRed.obj"
+dest_files=["res://.godot/imported/barrierRed.obj-51e23c69724a0ac123df3a175e5de3d7.mesh", "res://.godot/imported/barrierRed.obj-51e23c69724a0ac123df3a175e5de3d7.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://crldm040gungi"
+path="res://.godot/imported/log.obj-0910ad7f02ad2e4ac60607c9f4be525e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/log.obj-0910ad7f02ad2e4ac60607c9f4be525e.mesh"]
+
+source_file="res://stolen_assets/kenney_nature-kit/Models/OBJ format/log.obj"
+dest_files=["res://.godot/imported/log.obj-0910ad7f02ad2e4ac60607c9f4be525e.mesh", "res://.godot/imported/log.obj-0910ad7f02ad2e4ac60607c9f4be525e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://3fc0g8p7gfge"
+path="res://.godot/imported/pan_A.obj-8f5e1c41ec5bf7bedbf3545dd724e197.mesh"
+
+[deps]
+
+files=["res://.godot/imported/pan_A.obj-8f5e1c41ec5bf7bedbf3545dd724e197.mesh"]
+
+source_file="res://stolen_assets/KayKit_Restaurant_Bits_1.0_FREE/Assets/obj/pan_A.obj"
+dest_files=["res://.godot/imported/pan_A.obj-8f5e1c41ec5bf7bedbf3545dd724e197.mesh", "res://.godot/imported/pan_A.obj-8f5e1c41ec5bf7bedbf3545dd724e197.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://hgvqf35g06vc"
+path="res://.godot/imported/raceCarWhite.obj-be1170e91a3f2cffcbb15f07d71c9faa.mesh"
+
+[deps]
+
+files=["res://.godot/imported/raceCarWhite.obj-be1170e91a3f2cffcbb15f07d71c9faa.mesh"]
+
+source_file="res://stolen_assets/kenney_racing-kit/Models/OBJ format/raceCarWhite.obj"
+dest_files=["res://.godot/imported/raceCarWhite.obj-be1170e91a3f2cffcbb15f07d71c9faa.mesh", "res://.godot/imported/raceCarWhite.obj-be1170e91a3f2cffcbb15f07d71c9faa.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

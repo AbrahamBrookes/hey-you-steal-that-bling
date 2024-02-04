@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dvi0kvqjg0k0q"
+path="res://.godot/imported/ammo_uzi.obj-4d2f0d904d2d8cac9f581879728d0142.mesh"
+
+[deps]
+
+files=["res://.godot/imported/ammo_uzi.obj-4d2f0d904d2d8cac9f581879728d0142.mesh"]
+
+source_file="res://stolen_assets/kenney_weapon-pack/Models/ammo_uzi.obj"
+dest_files=["res://.godot/imported/ammo_uzi.obj-4d2f0d904d2d8cac9f581879728d0142.mesh", "res://.godot/imported/ammo_uzi.obj-4d2f0d904d2d8cac9f581879728d0142.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

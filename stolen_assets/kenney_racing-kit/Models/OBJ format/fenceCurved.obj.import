@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dhd41lmomnqvn"
+path="res://.godot/imported/fenceCurved.obj-4e3851cc64c7f45078becb38d0021c4c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/fenceCurved.obj-4e3851cc64c7f45078becb38d0021c4c.mesh"]
+
+source_file="res://stolen_assets/kenney_racing-kit/Models/OBJ format/fenceCurved.obj"
+dest_files=["res://.godot/imported/fenceCurved.obj-4e3851cc64c7f45078becb38d0021c4c.mesh", "res://.godot/imported/fenceCurved.obj-4e3851cc64c7f45078becb38d0021c4c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

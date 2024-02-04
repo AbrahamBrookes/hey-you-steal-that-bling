@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bl4k15h1nuu8j"
+path="res://.godot/imported/rock_largeC.obj-dbeb2d8de6fac98750c9ec33292c742d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/rock_largeC.obj-dbeb2d8de6fac98750c9ec33292c742d.mesh"]
+
+source_file="res://stolen_assets/kenney_nature-kit/Models/OBJ format/rock_largeC.obj"
+dest_files=["res://.godot/imported/rock_largeC.obj-dbeb2d8de6fac98750c9ec33292c742d.mesh", "res://.godot/imported/rock_largeC.obj-dbeb2d8de6fac98750c9ec33292c742d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

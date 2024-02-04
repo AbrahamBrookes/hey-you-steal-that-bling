@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cwgwx5d8gcrhk"
+path="res://.godot/imported/tree_thin_fall.obj-75e65d0c388aba3f79fa9ba4b23738e8.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tree_thin_fall.obj-75e65d0c388aba3f79fa9ba4b23738e8.mesh"]
+
+source_file="res://stolen_assets/kenney_nature-kit/Models/OBJ format/tree_thin_fall.obj"
+dest_files=["res://.godot/imported/tree_thin_fall.obj-75e65d0c388aba3f79fa9ba4b23738e8.mesh", "res://.godot/imported/tree_thin_fall.obj-75e65d0c388aba3f79fa9ba4b23738e8.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

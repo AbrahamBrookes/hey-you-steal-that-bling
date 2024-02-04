@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bm3hw3g5t2l5p"
+path="res://.godot/imported/ground_pathSplit.obj-c7aed54cdcc1bbe3ea7ab5a879d8712b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/ground_pathSplit.obj-c7aed54cdcc1bbe3ea7ab5a879d8712b.mesh"]
+
+source_file="res://stolen_assets/kenney_nature-kit/Models/OBJ format/ground_pathSplit.obj"
+dest_files=["res://.godot/imported/ground_pathSplit.obj-c7aed54cdcc1bbe3ea7ab5a879d8712b.mesh", "res://.godot/imported/ground_pathSplit.obj-c7aed54cdcc1bbe3ea7ab5a879d8712b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

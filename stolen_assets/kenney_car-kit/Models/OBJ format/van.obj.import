@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ccn3qn22psq7o"
+path="res://.godot/imported/van.obj-daf89bfe85550bbd5f8e031a53dd518e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/van.obj-daf89bfe85550bbd5f8e031a53dd518e.mesh"]
+
+source_file="res://stolen_assets/kenney_car-kit/Models/OBJ format/van.obj"
+dest_files=["res://.godot/imported/van.obj-daf89bfe85550bbd5f8e031a53dd518e.mesh", "res://.godot/imported/van.obj-daf89bfe85550bbd5f8e031a53dd518e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

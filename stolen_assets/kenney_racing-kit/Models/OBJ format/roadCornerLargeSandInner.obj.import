@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bi6telro3jhn2"
+path="res://.godot/imported/roadCornerLargeSandInner.obj-79884e72f1c22d00678fa195d3c490b7.mesh"
+
+[deps]
+
+files=["res://.godot/imported/roadCornerLargeSandInner.obj-79884e72f1c22d00678fa195d3c490b7.mesh"]
+
+source_file="res://stolen_assets/kenney_racing-kit/Models/OBJ format/roadCornerLargeSandInner.obj"
+dest_files=["res://.godot/imported/roadCornerLargeSandInner.obj-79884e72f1c22d00678fa195d3c490b7.mesh", "res://.godot/imported/roadCornerLargeSandInner.obj-79884e72f1c22d00678fa195d3c490b7.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

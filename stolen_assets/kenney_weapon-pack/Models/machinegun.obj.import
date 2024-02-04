@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://xbkfec3k0lxc"
+path="res://.godot/imported/machinegun.obj-3f9b9c0736d193c6e234b04cdc8d14a5.mesh"
+
+[deps]
+
+files=["res://.godot/imported/machinegun.obj-3f9b9c0736d193c6e234b04cdc8d14a5.mesh"]
+
+source_file="res://stolen_assets/kenney_weapon-pack/Models/machinegun.obj"
+dest_files=["res://.godot/imported/machinegun.obj-3f9b9c0736d193c6e234b04cdc8d14a5.mesh", "res://.godot/imported/machinegun.obj-3f9b9c0736d193c6e234b04cdc8d14a5.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

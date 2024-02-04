@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cgjl8x1w35xif"
+path="res://.godot/imported/tent_detailedOpen.obj-fcccae6cdbf2c2f9d47da59bd5b18590.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tent_detailedOpen.obj-fcccae6cdbf2c2f9d47da59bd5b18590.mesh"]
+
+source_file="res://stolen_assets/kenney_nature-kit/Models/OBJ format/tent_detailedOpen.obj"
+dest_files=["res://.godot/imported/tent_detailedOpen.obj-fcccae6cdbf2c2f9d47da59bd5b18590.mesh", "res://.godot/imported/tent_detailedOpen.obj-fcccae6cdbf2c2f9d47da59bd5b18590.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

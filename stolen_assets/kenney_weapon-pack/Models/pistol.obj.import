@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c6dfit3basniu"
+path="res://.godot/imported/pistol.obj-2a2ec53eac6a64b2876f184934f63281.mesh"
+
+[deps]
+
+files=["res://.godot/imported/pistol.obj-2a2ec53eac6a64b2876f184934f63281.mesh"]
+
+source_file="res://stolen_assets/kenney_weapon-pack/Models/pistol.obj"
+dest_files=["res://.godot/imported/pistol.obj-2a2ec53eac6a64b2876f184934f63281.mesh", "res://.godot/imported/pistol.obj-2a2ec53eac6a64b2876f184934f63281.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

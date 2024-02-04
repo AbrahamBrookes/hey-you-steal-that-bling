@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://6xue6yk4tqex"
+path="res://.godot/imported/plant_bushTriangle.obj-80696126a4453fea7e4f09a6a921fe37.mesh"
+
+[deps]
+
+files=["res://.godot/imported/plant_bushTriangle.obj-80696126a4453fea7e4f09a6a921fe37.mesh"]
+
+source_file="res://stolen_assets/kenney_nature-kit/Models/OBJ format/plant_bushTriangle.obj"
+dest_files=["res://.godot/imported/plant_bushTriangle.obj-80696126a4453fea7e4f09a6a921fe37.mesh", "res://.godot/imported/plant_bushTriangle.obj-80696126a4453fea7e4f09a6a921fe37.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

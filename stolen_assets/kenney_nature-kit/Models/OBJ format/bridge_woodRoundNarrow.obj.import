@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://1ok30rd2fqlo"
+path="res://.godot/imported/bridge_woodRoundNarrow.obj-51fb89fd36a67e913cf105b7e8b49e91.mesh"
+
+[deps]
+
+files=["res://.godot/imported/bridge_woodRoundNarrow.obj-51fb89fd36a67e913cf105b7e8b49e91.mesh"]
+
+source_file="res://stolen_assets/kenney_nature-kit/Models/OBJ format/bridge_woodRoundNarrow.obj"
+dest_files=["res://.godot/imported/bridge_woodRoundNarrow.obj-51fb89fd36a67e913cf105b7e8b49e91.mesh", "res://.godot/imported/bridge_woodRoundNarrow.obj-51fb89fd36a67e913cf105b7e8b49e91.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

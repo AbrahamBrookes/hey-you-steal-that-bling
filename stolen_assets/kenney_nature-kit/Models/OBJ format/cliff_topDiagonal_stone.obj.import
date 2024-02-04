@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cg4vqpn6018ek"
+path="res://.godot/imported/cliff_topDiagonal_stone.obj-7377a19b497f020451f8737db14667a4.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cliff_topDiagonal_stone.obj-7377a19b497f020451f8737db14667a4.mesh"]
+
+source_file="res://stolen_assets/kenney_nature-kit/Models/OBJ format/cliff_topDiagonal_stone.obj"
+dest_files=["res://.godot/imported/cliff_topDiagonal_stone.obj-7377a19b497f020451f8737db14667a4.mesh", "res://.godot/imported/cliff_topDiagonal_stone.obj-7377a19b497f020451f8737db14667a4.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

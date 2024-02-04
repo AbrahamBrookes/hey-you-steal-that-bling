@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dgueelroigyq"
+path="res://.godot/imported/tent.obj-03a4f45f5055d1bf8f4e96f4e424e8a1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tent.obj-03a4f45f5055d1bf8f4e96f4e424e8a1.mesh"]
+
+source_file="res://stolen_assets/kenney_racing-kit/Models/OBJ format/tent.obj"
+dest_files=["res://.godot/imported/tent.obj-03a4f45f5055d1bf8f4e96f4e424e8a1.mesh", "res://.godot/imported/tent.obj-03a4f45f5055d1bf8f4e96f4e424e8a1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

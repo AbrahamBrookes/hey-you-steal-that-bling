@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://28abtmte350e"
+path="res://.godot/imported/stone_largeC.obj-ca11508ad773d5ec054b150c49101399.mesh"
+
+[deps]
+
+files=["res://.godot/imported/stone_largeC.obj-ca11508ad773d5ec054b150c49101399.mesh"]
+
+source_file="res://stolen_assets/kenney_nature-kit/Models/OBJ format/stone_largeC.obj"
+dest_files=["res://.godot/imported/stone_largeC.obj-ca11508ad773d5ec054b150c49101399.mesh", "res://.godot/imported/stone_largeC.obj-ca11508ad773d5ec054b150c49101399.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

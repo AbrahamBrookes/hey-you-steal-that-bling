@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dc0o2w5aapj7c"
+path="res://.godot/imported/crate_buns.obj-3faeb9c8d9e215d01def5ba507546cbd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/crate_buns.obj-3faeb9c8d9e215d01def5ba507546cbd.mesh"]
+
+source_file="res://stolen_assets/KayKit_Restaurant_Bits_1.0_FREE/Assets/obj/crate_buns.obj"
+dest_files=["res://.godot/imported/crate_buns.obj-3faeb9c8d9e215d01def5ba507546cbd.mesh", "res://.godot/imported/crate_buns.obj-3faeb9c8d9e215d01def5ba507546cbd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

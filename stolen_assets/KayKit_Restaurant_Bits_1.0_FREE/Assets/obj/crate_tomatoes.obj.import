@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://chvoqnyelal4f"
+path="res://.godot/imported/crate_tomatoes.obj-eb0c23ce7f5242285df22b1ef631a7ef.mesh"
+
+[deps]
+
+files=["res://.godot/imported/crate_tomatoes.obj-eb0c23ce7f5242285df22b1ef631a7ef.mesh"]
+
+source_file="res://stolen_assets/KayKit_Restaurant_Bits_1.0_FREE/Assets/obj/crate_tomatoes.obj"
+dest_files=["res://.godot/imported/crate_tomatoes.obj-eb0c23ce7f5242285df22b1ef631a7ef.mesh", "res://.godot/imported/crate_tomatoes.obj-eb0c23ce7f5242285df22b1ef631a7ef.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

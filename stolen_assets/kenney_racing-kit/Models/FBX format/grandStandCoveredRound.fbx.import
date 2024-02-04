@@ -1,0 +1,32 @@
+[remap]
+
+importer="scene"
+importer_version=1
+type="PackedScene"
+uid="uid://cdh2was1k71c3"
+path="res://.godot/imported/grandStandCoveredRound.fbx-ce17e75ad8a8db41c7a09671d6eff434.scn"
+
+[deps]
+
+source_file="res://stolen_assets/kenney_racing-kit/Models/FBX format/grandStandCoveredRound.fbx"
+dest_files=["res://.godot/imported/grandStandCoveredRound.fbx-ce17e75ad8a8db41c7a09671d6eff434.scn"]
+
+[params]
+
+nodes/root_type="Node3D"
+nodes/root_name="Scene Root"
+nodes/apply_root_scale=true
+nodes/root_scale=1.0
+meshes/ensure_tangents=true
+meshes/generate_lods=true
+meshes/create_shadow_meshes=true
+meshes/light_baking=1
+meshes/lightmap_texel_size=0.2
+skins/use_named_skins=true
+animation/import=true
+animation/fps=30
+animation/trimming=false
+animation/remove_immutable_tracks=true
+import_script/path=""
+_subresources={}
+gltf/embedded_image_handling=1

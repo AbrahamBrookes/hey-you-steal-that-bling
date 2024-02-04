@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dcfht0bbnq1k8"
+path="res://.godot/imported/kitchencabinet_corner.obj-c6e9587c4b675678c80493f735ea9d6b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/kitchencabinet_corner.obj-c6e9587c4b675678c80493f735ea9d6b.mesh"]
+
+source_file="res://stolen_assets/KayKit_Restaurant_Bits_1.0_FREE/Assets/obj/kitchencabinet_corner.obj"
+dest_files=["res://.godot/imported/kitchencabinet_corner.obj-c6e9587c4b675678c80493f735ea9d6b.mesh", "res://.godot/imported/kitchencabinet_corner.obj-c6e9587c4b675678c80493f735ea9d6b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

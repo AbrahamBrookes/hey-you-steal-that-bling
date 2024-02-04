@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://crdlv75qe5cor"
+path="res://.godot/imported/tree_default_fall.obj-2ceb7be6d42855e3642508de93aa9b5f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tree_default_fall.obj-2ceb7be6d42855e3642508de93aa9b5f.mesh"]
+
+source_file="res://stolen_assets/kenney_nature-kit/Models/OBJ format/tree_default_fall.obj"
+dest_files=["res://.godot/imported/tree_default_fall.obj-2ceb7be6d42855e3642508de93aa9b5f.mesh", "res://.godot/imported/tree_default_fall.obj-2ceb7be6d42855e3642508de93aa9b5f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

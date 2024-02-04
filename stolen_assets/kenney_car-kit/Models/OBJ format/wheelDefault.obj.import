@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c84wtwfk0lnpf"
+path="res://.godot/imported/wheelDefault.obj-d75e6b32ba9754cd3e81a592e4a3ed6b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wheelDefault.obj-d75e6b32ba9754cd3e81a592e4a3ed6b.mesh"]
+
+source_file="res://stolen_assets/kenney_car-kit/Models/OBJ format/wheelDefault.obj"
+dest_files=["res://.godot/imported/wheelDefault.obj-d75e6b32ba9754cd3e81a592e4a3ed6b.mesh", "res://.godot/imported/wheelDefault.obj-d75e6b32ba9754cd3e81a592e4a3ed6b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

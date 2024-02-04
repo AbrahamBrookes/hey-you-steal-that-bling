@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c70drl04yxl1c"
+path="res://.godot/imported/cliff_cornerInnerLarge_stone.obj-3d035c8269805489bbaa3713cc24cbb5.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cliff_cornerInnerLarge_stone.obj-3d035c8269805489bbaa3713cc24cbb5.mesh"]
+
+source_file="res://stolen_assets/kenney_nature-kit/Models/OBJ format/cliff_cornerInnerLarge_stone.obj"
+dest_files=["res://.godot/imported/cliff_cornerInnerLarge_stone.obj-3d035c8269805489bbaa3713cc24cbb5.mesh", "res://.godot/imported/cliff_cornerInnerLarge_stone.obj-3d035c8269805489bbaa3713cc24cbb5.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

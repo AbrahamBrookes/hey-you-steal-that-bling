@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bguj80lt7x5vs"
+path="res://.godot/imported/lightPost_exclusive.obj-d4a778218d891ea231c907da49d6a441.mesh"
+
+[deps]
+
+files=["res://.godot/imported/lightPost_exclusive.obj-d4a778218d891ea231c907da49d6a441.mesh"]
+
+source_file="res://stolen_assets/kenney_racing-kit/Models/OBJ format/lightPost_exclusive.obj"
+dest_files=["res://.godot/imported/lightPost_exclusive.obj-d4a778218d891ea231c907da49d6a441.mesh", "res://.godot/imported/lightPost_exclusive.obj-d4a778218d891ea231c907da49d6a441.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

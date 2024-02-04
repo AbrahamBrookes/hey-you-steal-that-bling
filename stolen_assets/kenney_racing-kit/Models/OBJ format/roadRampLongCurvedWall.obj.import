@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://btrm3a640idql"
+path="res://.godot/imported/roadRampLongCurvedWall.obj-8c73cb3dbbf6159a42bc619439a44b25.mesh"
+
+[deps]
+
+files=["res://.godot/imported/roadRampLongCurvedWall.obj-8c73cb3dbbf6159a42bc619439a44b25.mesh"]
+
+source_file="res://stolen_assets/kenney_racing-kit/Models/OBJ format/roadRampLongCurvedWall.obj"
+dest_files=["res://.godot/imported/roadRampLongCurvedWall.obj-8c73cb3dbbf6159a42bc619439a44b25.mesh", "res://.godot/imported/roadRampLongCurvedWall.obj-8c73cb3dbbf6159a42bc619439a44b25.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

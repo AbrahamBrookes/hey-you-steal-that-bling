@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bhtole0cdqmnh"
+path="res://.godot/imported/roadStraightBridgeMid.obj-2e5c5316f1148dd21e771478eb0b8fbe.mesh"
+
+[deps]
+
+files=["res://.godot/imported/roadStraightBridgeMid.obj-2e5c5316f1148dd21e771478eb0b8fbe.mesh"]
+
+source_file="res://stolen_assets/kenney_racing-kit/Models/OBJ format/roadStraightBridgeMid.obj"
+dest_files=["res://.godot/imported/roadStraightBridgeMid.obj-2e5c5316f1148dd21e771478eb0b8fbe.mesh", "res://.godot/imported/roadStraightBridgeMid.obj-2e5c5316f1148dd21e771478eb0b8fbe.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

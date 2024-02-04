@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://2x8bisidmcs3"
+path="res://.godot/imported/bridge_stone.obj-ecc22a8e812ce524f7befd9be42fd681.mesh"
+
+[deps]
+
+files=["res://.godot/imported/bridge_stone.obj-ecc22a8e812ce524f7befd9be42fd681.mesh"]
+
+source_file="res://stolen_assets/kenney_nature-kit/Models/OBJ format/bridge_stone.obj"
+dest_files=["res://.godot/imported/bridge_stone.obj-ecc22a8e812ce524f7befd9be42fd681.mesh", "res://.godot/imported/bridge_stone.obj-ecc22a8e812ce524f7befd9be42fd681.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bda5o35vegwo5"
+path="res://.godot/imported/roadCornerSmallWall.obj-d4b1ad0610a38995fcddb0e74ef120aa.mesh"
+
+[deps]
+
+files=["res://.godot/imported/roadCornerSmallWall.obj-d4b1ad0610a38995fcddb0e74ef120aa.mesh"]
+
+source_file="res://stolen_assets/kenney_racing-kit/Models/OBJ format/roadCornerSmallWall.obj"
+dest_files=["res://.godot/imported/roadCornerSmallWall.obj-d4b1ad0610a38995fcddb0e74ef120aa.mesh", "res://.godot/imported/roadCornerSmallWall.obj-d4b1ad0610a38995fcddb0e74ef120aa.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

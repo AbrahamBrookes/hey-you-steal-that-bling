@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://7n7hbvcumwvr"
+path="res://.godot/imported/bed_floor.obj-93e38ce203cbe3e9e8b2db86244e5f45.mesh"
+
+[deps]
+
+files=["res://.godot/imported/bed_floor.obj-93e38ce203cbe3e9e8b2db86244e5f45.mesh"]
+
+source_file="res://stolen_assets/kenney_nature-kit/Models/OBJ format/bed_floor.obj"
+dest_files=["res://.godot/imported/bed_floor.obj-93e38ce203cbe3e9e8b2db86244e5f45.mesh", "res://.godot/imported/bed_floor.obj-93e38ce203cbe3e9e8b2db86244e5f45.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

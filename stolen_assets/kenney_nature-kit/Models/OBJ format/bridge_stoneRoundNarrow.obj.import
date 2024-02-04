@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bj80dya3wrsgm"
+path="res://.godot/imported/bridge_stoneRoundNarrow.obj-4ef1016b38d2eb1441fdb2511d2e61ae.mesh"
+
+[deps]
+
+files=["res://.godot/imported/bridge_stoneRoundNarrow.obj-4ef1016b38d2eb1441fdb2511d2e61ae.mesh"]
+
+source_file="res://stolen_assets/kenney_nature-kit/Models/OBJ format/bridge_stoneRoundNarrow.obj"
+dest_files=["res://.godot/imported/bridge_stoneRoundNarrow.obj-4ef1016b38d2eb1441fdb2511d2e61ae.mesh", "res://.godot/imported/bridge_stoneRoundNarrow.obj-4ef1016b38d2eb1441fdb2511d2e61ae.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

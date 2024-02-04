@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d152w6olqgvky"
+path="res://.godot/imported/roadStraightLongMid.obj-2921bd9a1b2c09207a414aa53a1e3aad.mesh"
+
+[deps]
+
+files=["res://.godot/imported/roadStraightLongMid.obj-2921bd9a1b2c09207a414aa53a1e3aad.mesh"]
+
+source_file="res://stolen_assets/kenney_racing-kit/Models/OBJ format/roadStraightLongMid.obj"
+dest_files=["res://.godot/imported/roadStraightLongMid.obj-2921bd9a1b2c09207a414aa53a1e3aad.mesh", "res://.godot/imported/roadStraightLongMid.obj-2921bd9a1b2c09207a414aa53a1e3aad.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

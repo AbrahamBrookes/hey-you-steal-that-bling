@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://8ms7yjkdvyq3"
+path="res://.godot/imported/bridge_center_stoneRound.obj-c07addf99b2d92a8dc3045c25faaa57b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/bridge_center_stoneRound.obj-c07addf99b2d92a8dc3045c25faaa57b.mesh"]
+
+source_file="res://stolen_assets/kenney_nature-kit/Models/OBJ format/bridge_center_stoneRound.obj"
+dest_files=["res://.godot/imported/bridge_center_stoneRound.obj-c07addf99b2d92a8dc3045c25faaa57b.mesh", "res://.godot/imported/bridge_center_stoneRound.obj-c07addf99b2d92a8dc3045c25faaa57b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

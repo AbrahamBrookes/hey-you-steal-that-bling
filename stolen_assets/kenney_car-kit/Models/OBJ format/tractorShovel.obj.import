@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d2s76ijcep4uo"
+path="res://.godot/imported/tractorShovel.obj-6bfb23c359161f4648350e3eaa6d52ed.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tractorShovel.obj-6bfb23c359161f4648350e3eaa6d52ed.mesh"]
+
+source_file="res://stolen_assets/kenney_car-kit/Models/OBJ format/tractorShovel.obj"
+dest_files=["res://.godot/imported/tractorShovel.obj-6bfb23c359161f4648350e3eaa6d52ed.mesh", "res://.godot/imported/tractorShovel.obj-6bfb23c359161f4648350e3eaa6d52ed.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
