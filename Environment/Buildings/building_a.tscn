@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://cssyuhqnhkmdy"]
+
+[ext_resource type="PackedScene" uid="uid://b4l7h2p0ccqi4" path="res://stolen_assets/KayKit_City_Builder_Bits_1.0_FREE/Assets/gltf/building_A_withoutBase.gltf" id="1_1w2u6"]
+
+[node name="building_A_withoutBase" instance=ExtResource("1_1w2u6")]
+transform = Transform3D(5, 0, 0, 0, 5, 0, 0, 0, 5, 0, -0.500692, 0)

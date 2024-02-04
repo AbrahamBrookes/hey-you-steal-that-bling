@@ -1,0 +1,33 @@
+[gd_scene load_steps=4 format=3 uid="uid://dc4td1cxeduyi"]
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_jiwki"]
+lifetime_randomness = 0.09
+direction = Vector3(1, 10, 50)
+spread = 125.39
+initial_velocity_min = 1.0
+initial_velocity_max = 5.0
+scale_min = 0.5
+scale_max = 1.25
+anim_offset_min = 0.7897
+anim_offset_max = 0.9204
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_8ltlk"]
+albedo_color = Color(0.686275, 0, 0, 1)
+roughness = 0.13
+
+[sub_resource type="BoxMesh" id="BoxMesh_2lk5c"]
+material = SubResource("StandardMaterial3D_8ltlk")
+size = Vector3(0.1, 0.1, 0.1)
+
+[node name="BloodSquib" type="Node3D"]
+
+[node name="Particles" type="GPUParticles3D" parent="."]
+emitting = false
+amount = 42
+one_shot = true
+preprocess = 0.15
+speed_scale = 1.64
+explosiveness = 0.75
+randomness = 0.52
+process_material = SubResource("ParticleProcessMaterial_jiwki")
+draw_pass_1 = SubResource("BoxMesh_2lk5c")
