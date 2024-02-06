@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cw7pdkdwytbt7"
+path="res://.godot/imported/4Story_Wide_2Doors_Mat.obj-2e3a38cf5a78d2a89326e58696a021fd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/4Story_Wide_2Doors_Mat.obj-2e3a38cf5a78d2a89326e58696a021fd.mesh"]
+
+source_file="res://stolen_assets/Quaternius-buildings/OBJ/4Story_Wide_2Doors_Mat.obj"
+dest_files=["res://.godot/imported/4Story_Wide_2Doors_Mat.obj-2e3a38cf5a78d2a89326e58696a021fd.mesh", "res://.godot/imported/4Story_Wide_2Doors_Mat.obj-2e3a38cf5a78d2a89326e58696a021fd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

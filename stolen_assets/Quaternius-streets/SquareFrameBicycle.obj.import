@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bqwrchle2mu20"
+path="res://.godot/imported/SquareFrameBicycle.obj-08033ea01b0bc7701a36a59900771951.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SquareFrameBicycle.obj-08033ea01b0bc7701a36a59900771951.mesh"]
+
+source_file="res://stolen_assets/Quaternius-streets/SquareFrameBicycle.obj"
+dest_files=["res://.godot/imported/SquareFrameBicycle.obj-08033ea01b0bc7701a36a59900771951.mesh", "res://.godot/imported/SquareFrameBicycle.obj-08033ea01b0bc7701a36a59900771951.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

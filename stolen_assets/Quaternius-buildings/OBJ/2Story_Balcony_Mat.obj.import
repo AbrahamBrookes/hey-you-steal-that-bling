@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://tb5qh547rc5y"
+path="res://.godot/imported/2Story_Balcony_Mat.obj-49ebd5fdc305b13b5204a1aefab9ff9c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2Story_Balcony_Mat.obj-49ebd5fdc305b13b5204a1aefab9ff9c.mesh"]
+
+source_file="res://stolen_assets/Quaternius-buildings/OBJ/2Story_Balcony_Mat.obj"
+dest_files=["res://.godot/imported/2Story_Balcony_Mat.obj-49ebd5fdc305b13b5204a1aefab9ff9c.mesh", "res://.godot/imported/2Story_Balcony_Mat.obj-49ebd5fdc305b13b5204a1aefab9ff9c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

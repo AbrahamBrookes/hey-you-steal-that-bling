@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://jgg2j2denicd"
+path="res://.godot/imported/BurgerShop.obj-d55047c31b67f4a93ec426dd8e98b62d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/BurgerShop.obj-d55047c31b67f4a93ec426dd8e98b62d.mesh"]
+
+source_file="res://stolen_assets/Quaternius-buildings/BurgerShop.obj"
+dest_files=["res://.godot/imported/BurgerShop.obj-d55047c31b67f4a93ec426dd8e98b62d.mesh", "res://.godot/imported/BurgerShop.obj-d55047c31b67f4a93ec426dd8e98b62d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

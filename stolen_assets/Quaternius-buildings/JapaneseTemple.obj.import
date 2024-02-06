@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dsqob5dtbln0w"
+path="res://.godot/imported/JapaneseTemple.obj-2e400716e105d724b2126a5a606e8eba.mesh"
+
+[deps]
+
+files=["res://.godot/imported/JapaneseTemple.obj-2e400716e105d724b2126a5a606e8eba.mesh"]
+
+source_file="res://stolen_assets/Quaternius-buildings/JapaneseTemple.obj"
+dest_files=["res://.godot/imported/JapaneseTemple.obj-2e400716e105d724b2126a5a606e8eba.mesh", "res://.godot/imported/JapaneseTemple.obj-2e400716e105d724b2126a5a606e8eba.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

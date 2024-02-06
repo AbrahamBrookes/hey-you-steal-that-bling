@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://crgi54yy4nmj8"
+path="res://.godot/imported/TrafficCone.obj-df698539c7a16e0dc134340d2678e0c1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/TrafficCone.obj-df698539c7a16e0dc134340d2678e0c1.mesh"]
+
+source_file="res://stolen_assets/Quaternius-streets/TrafficCone.obj"
+dest_files=["res://.godot/imported/TrafficCone.obj-df698539c7a16e0dc134340d2678e0c1.mesh", "res://.godot/imported/TrafficCone.obj-df698539c7a16e0dc134340d2678e0c1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

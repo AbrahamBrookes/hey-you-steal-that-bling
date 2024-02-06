@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dafqqyllrlij0"
+path="res://.godot/imported/SimpleHouse.obj-ab6ccd5094c75abc6540508693a9e929.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SimpleHouse.obj-ab6ccd5094c75abc6540508693a9e929.mesh"]
+
+source_file="res://stolen_assets/Quaternius-buildings/SimpleHouse.obj"
+dest_files=["res://.godot/imported/SimpleHouse.obj-ab6ccd5094c75abc6540508693a9e929.mesh", "res://.godot/imported/SimpleHouse.obj-ab6ccd5094c75abc6540508693a9e929.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

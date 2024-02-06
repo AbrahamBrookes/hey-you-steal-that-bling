@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://42j12cg4sd6u"
+path="res://.godot/imported/CargoTrain_Front.obj-1bd1b8d29d9934d09e6a6929c26770ee.mesh"
+
+[deps]
+
+files=["res://.godot/imported/CargoTrain_Front.obj-1bd1b8d29d9934d09e6a6929c26770ee.mesh"]
+
+source_file="res://stolen_assets/Quaternius-trains/CargoTrain_Front.obj"
+dest_files=["res://.godot/imported/CargoTrain_Front.obj-1bd1b8d29d9934d09e6a6929c26770ee.mesh", "res://.godot/imported/CargoTrain_Front.obj-1bd1b8d29d9934d09e6a6929c26770ee.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

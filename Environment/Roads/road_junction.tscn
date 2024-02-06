@@ -1,0 +1,45 @@
+[gd_scene load_steps=2 format=3 uid="uid://54dtalri0g18"]
+
+[ext_resource type="PackedScene" uid="uid://1bvdj65jtpl6" path="res://stolen_assets/KayKit_City_Builder_Bits_1.0_FREE/Assets/gltf/road_junction.glb" id="1_gwt3l"]
+
+[node name="road_junction" instance=ExtResource("1_gwt3l")]
+
+[node name="NavigationLink3D" type="NavigationLink3D" parent="." index="3"]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, -1.5, 0.5, -6.5)
+bidirectional = false
+end_position = Vector3(0, 0, -2)
+
+[node name="NavigationLink3D2" type="NavigationLink3D" parent="." index="4"]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, -1.5, 0.5, 4.5)
+bidirectional = false
+end_position = Vector3(0, 0, -2)
+
+[node name="NavigationLink3D3" type="NavigationLink3D" parent="." index="5"]
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, 6.5, 0.5, -1.5)
+bidirectional = false
+end_position = Vector3(0, 0, -2)
+
+[node name="NavigationLink3D4" type="NavigationLink3D" parent="." index="6"]
+transform = Transform3D(1.31134e-07, 0, -1, 0, 1, 0, 1, 0, 1.31134e-07, -6.5, 0.5, 1.5)
+bidirectional = false
+end_position = Vector3(0, 0, -2)
+
+[node name="NavigationLink3D7" type="NavigationLink3D" parent="." index="7"]
+transform = Transform3D(1, 0, 1.74846e-07, 0, 1, 0, -1.74846e-07, 0, 1, 1.5, 0.5, -4.5)
+bidirectional = false
+end_position = Vector3(0, 0, -2)
+
+[node name="NavigationLink3D8" type="NavigationLink3D" parent="." index="8"]
+transform = Transform3D(1, 0, 1.74846e-07, 0, 1, 0, -1.74846e-07, 0, 1, 1.5, 0.5, 6.5)
+bidirectional = false
+end_position = Vector3(0, 0, -2)
+
+[node name="NavigationLink3D5" type="NavigationLink3D" parent="." index="9"]
+transform = Transform3D(-4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, 4.5, 0.5, 1.5)
+bidirectional = false
+end_position = Vector3(0, 0, -2)
+
+[node name="NavigationLink3D6" type="NavigationLink3D" parent="." index="10"]
+transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, -4.5, 0.5, -1.5)
+bidirectional = false
+end_position = Vector3(0, 0, -2)

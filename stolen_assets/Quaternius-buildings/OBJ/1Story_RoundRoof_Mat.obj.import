@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://digsbtiq5turj"
+path="res://.godot/imported/1Story_RoundRoof_Mat.obj-542f7bb3ba5dc9ce82b0e2fd9919a1e2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1Story_RoundRoof_Mat.obj-542f7bb3ba5dc9ce82b0e2fd9919a1e2.mesh"]
+
+source_file="res://stolen_assets/Quaternius-buildings/OBJ/1Story_RoundRoof_Mat.obj"
+dest_files=["res://.godot/imported/1Story_RoundRoof_Mat.obj-542f7bb3ba5dc9ce82b0e2fd9919a1e2.mesh", "res://.godot/imported/1Story_RoundRoof_Mat.obj-542f7bb3ba5dc9ce82b0e2fd9919a1e2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

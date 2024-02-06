@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cgqwfguwp08sv"
+path="res://.godot/imported/Bank.obj-91bba69fddabd90e435efb8fc68dcac2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Bank.obj-91bba69fddabd90e435efb8fc68dcac2.mesh"]
+
+source_file="res://stolen_assets/Quaternius-buildings/OBJ/Bank.obj"
+dest_files=["res://.godot/imported/Bank.obj-91bba69fddabd90e435efb8fc68dcac2.mesh", "res://.godot/imported/Bank.obj-91bba69fddabd90e435efb8fc68dcac2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

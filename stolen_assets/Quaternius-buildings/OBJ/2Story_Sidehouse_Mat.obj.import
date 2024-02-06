@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://drslvpfb0hats"
+path="res://.godot/imported/2Story_Sidehouse_Mat.obj-f05e5951e139a9c39a85050a2177d0b5.mesh"
+
+[deps]
+
+files=["res://.godot/imported/2Story_Sidehouse_Mat.obj-f05e5951e139a9c39a85050a2177d0b5.mesh"]
+
+source_file="res://stolen_assets/Quaternius-buildings/OBJ/2Story_Sidehouse_Mat.obj"
+dest_files=["res://.godot/imported/2Story_Sidehouse_Mat.obj-f05e5951e139a9c39a85050a2177d0b5.mesh", "res://.godot/imported/2Story_Sidehouse_Mat.obj-f05e5951e139a9c39a85050a2177d0b5.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

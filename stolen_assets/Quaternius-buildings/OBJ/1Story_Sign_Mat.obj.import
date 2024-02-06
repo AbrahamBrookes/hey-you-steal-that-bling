@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dn83vd2dvfne8"
+path="res://.godot/imported/1Story_Sign_Mat.obj-6683f5d8e6893d9e5aae2eb7e60b3e17.mesh"
+
+[deps]
+
+files=["res://.godot/imported/1Story_Sign_Mat.obj-6683f5d8e6893d9e5aae2eb7e60b3e17.mesh"]
+
+source_file="res://stolen_assets/Quaternius-buildings/OBJ/1Story_Sign_Mat.obj"
+dest_files=["res://.godot/imported/1Story_Sign_Mat.obj-6683f5d8e6893d9e5aae2eb7e60b3e17.mesh", "res://.godot/imported/1Story_Sign_Mat.obj-6683f5d8e6893d9e5aae2eb7e60b3e17.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

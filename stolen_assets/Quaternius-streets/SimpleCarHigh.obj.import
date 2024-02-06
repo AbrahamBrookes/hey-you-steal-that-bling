@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bitfj2cw27t6b"
+path="res://.godot/imported/SimpleCarHigh.obj-c9f2133a4ee90079033aa3189589f6db.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SimpleCarHigh.obj-c9f2133a4ee90079033aa3189589f6db.mesh"]
+
+source_file="res://stolen_assets/Quaternius-streets/SimpleCarHigh.obj"
+dest_files=["res://.godot/imported/SimpleCarHigh.obj-c9f2133a4ee90079033aa3189589f6db.mesh", "res://.godot/imported/SimpleCarHigh.obj-c9f2133a4ee90079033aa3189589f6db.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

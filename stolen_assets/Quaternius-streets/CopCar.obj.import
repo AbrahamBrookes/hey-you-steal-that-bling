@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cn3b5lmh3hcdr"
+path="res://.godot/imported/CopCar.obj-fe49b43a440da0ea26eddb6de2637297.mesh"
+
+[deps]
+
+files=["res://.godot/imported/CopCar.obj-fe49b43a440da0ea26eddb6de2637297.mesh"]
+
+source_file="res://stolen_assets/Quaternius-streets/CopCar.obj"
+dest_files=["res://.godot/imported/CopCar.obj-fe49b43a440da0ea26eddb6de2637297.mesh", "res://.godot/imported/CopCar.obj-fe49b43a440da0ea26eddb6de2637297.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

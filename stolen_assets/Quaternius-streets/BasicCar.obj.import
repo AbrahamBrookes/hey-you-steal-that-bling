@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://6enhek2dka44"
+path="res://.godot/imported/BasicCar.obj-8de87d7519291c7646ebdad3bb370ede.mesh"
+
+[deps]
+
+files=["res://.godot/imported/BasicCar.obj-8de87d7519291c7646ebdad3bb370ede.mesh"]
+
+source_file="res://stolen_assets/Quaternius-streets/BasicCar.obj"
+dest_files=["res://.godot/imported/BasicCar.obj-8de87d7519291c7646ebdad3bb370ede.mesh", "res://.godot/imported/BasicCar.obj-8de87d7519291c7646ebdad3bb370ede.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

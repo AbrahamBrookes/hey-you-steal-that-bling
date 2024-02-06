@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://5pv6bvh3cfsr"
+path="res://.godot/imported/Locomotive_Front.obj-1b55aa26cb1208ed7191a1541370f9c7.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Locomotive_Front.obj-1b55aa26cb1208ed7191a1541370f9c7.mesh"]
+
+source_file="res://stolen_assets/Quaternius-trains/Locomotive_Front.obj"
+dest_files=["res://.godot/imported/Locomotive_Front.obj-1b55aa26cb1208ed7191a1541370f9c7.mesh", "res://.godot/imported/Locomotive_Front.obj-1b55aa26cb1208ed7191a1541370f9c7.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bt0gryjrc8xyt"
+path="res://.godot/imported/Flat2.obj-931305b78a3f73b0a58bbf16bd602a09.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Flat2.obj-931305b78a3f73b0a58bbf16bd602a09.mesh"]
+
+source_file="res://stolen_assets/Quaternius-buildings/OBJ/Flat2.obj"
+dest_files=["res://.godot/imported/Flat2.obj-931305b78a3f73b0a58bbf16bd602a09.mesh", "res://.godot/imported/Flat2.obj-931305b78a3f73b0a58bbf16bd602a09.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

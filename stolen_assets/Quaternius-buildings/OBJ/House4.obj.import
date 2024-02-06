@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bn4om3vf4gp7d"
+path="res://.godot/imported/House4.obj-7f85c00f29c4c2db74695bd8574f2333.mesh"
+
+[deps]
+
+files=["res://.godot/imported/House4.obj-7f85c00f29c4c2db74695bd8574f2333.mesh"]
+
+source_file="res://stolen_assets/Quaternius-buildings/OBJ/House4.obj"
+dest_files=["res://.godot/imported/House4.obj-7f85c00f29c4c2db74695bd8574f2333.mesh", "res://.godot/imported/House4.obj-7f85c00f29c4c2db74695bd8574f2333.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

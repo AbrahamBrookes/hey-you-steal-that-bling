@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bh30rr8xara6k"
+path="res://.godot/imported/TrafficLight.obj-6e793b43717a0bb53d7a23ae3d138dde.mesh"
+
+[deps]
+
+files=["res://.godot/imported/TrafficLight.obj-6e793b43717a0bb53d7a23ae3d138dde.mesh"]
+
+source_file="res://stolen_assets/Quaternius-streets/TrafficLight.obj"
+dest_files=["res://.godot/imported/TrafficLight.obj-6e793b43717a0bb53d7a23ae3d138dde.mesh", "res://.godot/imported/TrafficLight.obj-6e793b43717a0bb53d7a23ae3d138dde.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d1hw8ttsmwlrv"
+path="res://.godot/imported/Taxi.obj-72a4bb58ffd4e51c29f52bcfa9c9c1bb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Taxi.obj-72a4bb58ffd4e51c29f52bcfa9c9c1bb.mesh"]
+
+source_file="res://stolen_assets/Quaternius-streets/Taxi.obj"
+dest_files=["res://.godot/imported/Taxi.obj-72a4bb58ffd4e51c29f52bcfa9c9c1bb.mesh", "res://.godot/imported/Taxi.obj-72a4bb58ffd4e51c29f52bcfa9c9c1bb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

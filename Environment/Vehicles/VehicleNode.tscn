@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3 uid="uid://dfgp6vudan8b8"]
+
+[ext_resource type="Script" path="res://Environment/Vehicles/VehicleNode.gd" id="1_22nec"]
+
+[sub_resource type="SphereMesh" id="SphereMesh_t80ri"]
+
+[node name="VehicleNode" type="Node3D"]
+script = ExtResource("1_22nec")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+mesh = SubResource("SphereMesh_t80ri")

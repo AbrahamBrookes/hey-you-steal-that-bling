@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://drua6a7l458s6"
+path="res://.godot/imported/House2.obj-2b33fd82cf61ba635a229ee96428a52e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/House2.obj-2b33fd82cf61ba635a229ee96428a52e.mesh"]
+
+source_file="res://stolen_assets/Quaternius-buildings/OBJ/House2.obj"
+dest_files=["res://.godot/imported/House2.obj-2b33fd82cf61ba635a229ee96428a52e.mesh", "res://.godot/imported/House2.obj-2b33fd82cf61ba635a229ee96428a52e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

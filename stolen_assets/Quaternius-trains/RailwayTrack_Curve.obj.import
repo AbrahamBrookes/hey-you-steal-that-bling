@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dplj5bkimgyka"
+path="res://.godot/imported/RailwayTrack_Curve.obj-64277ca483a17b91e1dbb6492acb45d5.mesh"
+
+[deps]
+
+files=["res://.godot/imported/RailwayTrack_Curve.obj-64277ca483a17b91e1dbb6492acb45d5.mesh"]
+
+source_file="res://stolen_assets/Quaternius-trains/RailwayTrack_Curve.obj"
+dest_files=["res://.godot/imported/RailwayTrack_Curve.obj-64277ca483a17b91e1dbb6492acb45d5.mesh", "res://.godot/imported/RailwayTrack_Curve.obj-64277ca483a17b91e1dbb6492acb45d5.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
